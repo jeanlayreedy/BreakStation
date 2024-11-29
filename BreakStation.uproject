@@ -10,18 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "Water",
-			"Enabled": true
-		},
-		{
-			"Name": "Landmass",
-			"Enabled": true
-		},
-		{
-			"Name": "BlueprintMaterialTextureNodes",
-			"Enabled": true
 		}
 	]
 }
